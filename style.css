@@ -1,0 +1,16 @@
+.fondo {
+    background-image: url(images.2.jpg);
+    cursor:pointer;
+    padding: 10%;
+}
+
+.texto{
+    color: white;
+}
+.color {
+    background-color: rgb(51, 128, 128);
+    padding: 5%;
+}
+.card{
+    cursor:pointer;
+}
